@@ -1,0 +1,57 @@
+[AYRE HOTELES]
+
+
+/*CHAIN_RESULTS*/
+
+div#mirai_chainHotelsContainer {
+background-color: rgba(255, 255, 255, 0.85) !important;
+border-radius: 5px;
+margin-top: 45px;
+max-width: 1100px;
+min-width: 752px;
+padding-top: 30px;
+}
+div#mirai_chainHotelsContainer .detailHotel{
+border-bottom:1px solid #406694
+}
+.pl-reservas .page_interior .page .interior {
+color: #000;
+}
+div#mirai_chainHotelsContainer a {
+color: #3876fa;
+}
+div#mirai_chainHotelsContainer .bt_book, div#mirai_chainHotelsContainer .bt_book:visited {
+background: #2B5C97;
+border-radius: 2px;
+box-shadow: none;
+font-size: 13px;
+}
+div#mirai_chainHotelsContainer .bt_book:active, div#mirai_chainHotelsContainer .bt_book:hover {
+background:#36557B;
+}
+
+
+/*BOOKNGSTEP1_PAGE*/
+.mirai_button, .mirai_button:visited {
+background: #7e3b94;
+text-transform:uppercase;
+}
+.mirai_button:hover, .mirai_button:active{
+background:#000;
+}
+#availableRoomList li.inforoom_icon, #availableRoomList li.inforoom_icon span,#mirai_roomSelection tr.roomtype p.roomName, div#mirai_roomSelectionContainer, table#availableRoomList tr.roomtype p, #availableRoomList tr.roomtype p, div.ui-widget-content, div.ui-widget-header, #mirai_rootTable div#summaryHeader, #mirai_rootTable div#summaryDetailHeader, #mirai_rootTable .roomNumOption, #mirai_rootTable .pax{
+color:#000;
+}
+#mirai_totalPrice span{
+color:#000;
+}
+#mirai_roomSelection tr.roomtype p.roomName {
+font-weight:300
+}
+#availableRoomList .onlyThisType, #availableRoomList tr.roomtype p.onlyThisType {
+color:#000;
+}
+.inforoom_details, #mirai_roomSelection div.roomtypedetail, .roomratedetail{
+font-family: PTSans, Helvetica, Arial, sans-serif !important;
+}
+

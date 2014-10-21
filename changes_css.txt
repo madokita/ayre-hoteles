@@ -55,3 +55,13 @@ color:#000;
 font-family: PTSans, Helvetica, Arial, sans-serif !important;
 }
 
+
+/*21-10-2014*/
+
+#mirai_extra h2{
+color:#000
+}
+
+div#mirai_chainHotelsContainer{
+padding-bottom:30px;
+}

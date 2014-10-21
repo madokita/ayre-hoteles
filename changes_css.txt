@@ -65,3 +65,14 @@ color:#000
 div#mirai_chainHotelsContainer{
 padding-bottom:30px;
 }
+
+/*noDispo*/
+#noDispo .ui-widget-header{
+background-color: #3f6593 !important;
+}
+#noDispo .ui-datepicker .ui-datepicker-title{
+background-color: transparent !important;
+}
+#noDispo .ui-datepicker .ui-datepicker-prev, #noDispo .ui-datepicker .ui-datepicker-next{
+top:15px;
+}
